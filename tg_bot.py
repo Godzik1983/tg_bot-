@@ -1,3 +1,6 @@
+#!pip install pyTelegramBotAPI SpeechRecognition pydub gTTS Pillow requests
+#!pip install pyTelegramBotAPI SpeechRecognition
+#две верхних библиотеки запускаем в среде выполнения (console)
 import telebot
 import speech_recognition
 from pydub import AudioSegment
